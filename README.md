@@ -7,8 +7,7 @@
 
  ---
 ![linkedin][1]
----
-https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+---https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 [1]: https://www.linkedin.com/in/furkan-kilinc/
 <!--
 **frknklnc/frknklnc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
