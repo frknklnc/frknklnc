@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning about Android Development.
 
  ---
-![[linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)][1]
+![linkedin][1]
 ---
 [1]: https://www.linkedin.com/in/furkan-kilinc/
 <!--
